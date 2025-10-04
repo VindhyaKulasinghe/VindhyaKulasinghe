@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 <br><br>- Currently pursuing a Bachelor of Information Technology (Honours) at the University of Moratuwa  <br>- Third-year undergraduate student  <br>- Passionate about software development  <br>- Dedicated to expanding technical expertise through academic coursework and hands-on projects  <br>- Aiming to contribute to innovative solutions in the field of information technology  <br><br>
 
 
